@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img width="550" height="200" src="https://github-readme-stats.vercel.app/api?username=Xmod-04&show_icons=true&theme=chartreuse-dark&locale=id">
+  <img width="550" height="200" src="[https://github-readme-stats.vercel.app/api?username=Xmod-04&show_icons=true&theme=chartreuse-dark&locale=id](https://github-readme-stats.vercel.app/api?username=Xmod-04&show_icons=true&theme=chartreuse-dark&locale=id)">
 </p>
 
 <p align="center">
